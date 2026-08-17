@@ -106,7 +106,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: I unlock my front door with `P h _ n e`. 📱",
+    "ข้อ 4: I call someone with my `P h _ n e`. 📱",
     value=st.session_state.ans4_val,
 )
 
