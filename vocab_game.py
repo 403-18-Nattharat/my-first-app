@@ -102,7 +102,7 @@ if st.session_state.get("is_ended", False):
 
 st.divider()
 
-  st.write ("นาย ณัฐรัชต์ แสงแอ่น ชั้น ม.4/3 เลขที่ 18")
+st.write("นาย ณัฐรัชต์ แสงแอ่น ชั้น ม.4/3 เลขที่ 18")
 
 
 
