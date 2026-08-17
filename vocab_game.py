@@ -101,6 +101,5 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
+
   st.write("นาย ณัฐรัชต์ แสงแอ่น ชั้น ม.4/3 เลขที่ 18")
-
-
